@@ -1,6 +1,7 @@
 # listadetarefas
 
-A new Flutter application.
+Este aplicativo tem como objetivo salvar uma lista de tarefas. Permitindo selecionar as tarefas concluidas, exclusão de tarefas e ordenação dos items.
+
 ![3xdo5c](https://user-images.githubusercontent.com/54938008/79761852-6074f780-82f8-11ea-86f1-5a589f9dc9cf.gif)
 ## Getting Started
 
