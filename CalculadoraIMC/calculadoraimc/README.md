@@ -1,6 +1,9 @@
-# calculadoraimc
+# Calculadora IMC
 
-A new Flutter application.
+O objetivo desse app é calcular o IMC do usuário de forma prática e apresentar sua posição na escala de IMC.
+
+![ezgif com-video-to-gif (2)](https://user-images.githubusercontent.com/54938008/79774907-d6358f00-8309-11ea-91fa-7e58690a42dc.gif)
+
 
 ## Getting Started
 
