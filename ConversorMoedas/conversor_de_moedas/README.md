@@ -1,6 +1,6 @@
 # Conversor de moedas
 
-Este app tem como objetivo realizar a conversão entre as moedas dolar, euro e real. Utilizando a api da HG finance para capturar o valor a contação atual da moeda.
+Este app tem como objetivo realizar a conversão entre as moedas dolar, euro e real. Utilizando a API da HG finance para capturar o valor a contação atual da moeda.
 
 ![ezgif com-video-to-gif (1)](https://user-images.githubusercontent.com/54938008/79771694-85239c00-8305-11ea-958e-3a6fb9de1ea1.gif)
 
