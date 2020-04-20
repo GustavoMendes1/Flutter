@@ -5,7 +5,7 @@ import 'package:async/async.dart';
 import 'package:http/http.dart' as http;
 import 'package:convert/convert.dart';
 
-const key = '48d4d856'; //necessário criar no HG finance
+const key = ''; //necessário criar no HG finance
 const request = 'https://api.hgbrasil.com/finance/quotations?key=$key';
 double dolar_Api;
 double euro_Api;
