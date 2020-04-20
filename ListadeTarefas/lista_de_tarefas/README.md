@@ -1,4 +1,4 @@
-# listadetarefas
+# Lista de tarefas
 
 Este aplicativo tem como objetivo salvar uma lista de tarefas. Permitindo selecionar as tarefas concluidas, exclusão de tarefas e ordenação dos items.
 
